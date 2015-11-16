@@ -1,0 +1,5 @@
+i don't know how to lapp works.
+but it is fun.
+I would like to make liveness detection app in this week.
+Also I'd want to finish it.
+Then, I will implement vehicle detection using CNN.
